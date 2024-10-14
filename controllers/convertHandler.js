@@ -1,3 +1,9 @@
+/**
+ * #######################################################
+ *  Metric-Imperial Converter - 2024-10-14
+ * #######################################################
+ */
+
 function ConvertHandler() {
   
   this.getNum = function(input) {
